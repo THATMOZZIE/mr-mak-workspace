@@ -1,5 +1,8 @@
 # Mr. Mak Workspace
 
+**This fork keeps Windows workspace content local.** Start with **Start Mr. Mak.cmd**
+to use a private copy outside this public checkout. See [local workspace setup](docs/local-workspace.md).
+
 Your CLI agents, a visual Workspace, and access from your phone.
 
 Mr. Mak has **two connected desktop windows**:
